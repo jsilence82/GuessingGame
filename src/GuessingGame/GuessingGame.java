@@ -7,6 +7,7 @@ public class GuessingGame {
     public static void main(String[] args){
         int computerNumber = (int) (Math.random()*100 + 1);
         int userAnswer = 0;
+        //This print is for testing only. Deactivate before finalizing.
         System.out.println("The correct number is: " + computerNumber);
         // Intial try count set at 10, will be deducted with each attempt
         int count = 10;
