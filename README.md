@@ -3,6 +3,12 @@ A simple guessing game built in Java.
 
 The computer will generate a random number between 1 and 100. The user has 10 attempts to guess the correct number.
 
+Future changes/updates planned:
+1. Scoring system
+2. Multiple players
+3. Setting number of rounds
+4. Storing high scores
+
 ![grafik](https://user-images.githubusercontent.com/98595145/167796640-a30391e1-0649-4a7f-939b-a21bf3698f0b.png)
 
 ![grafik](https://user-images.githubusercontent.com/98595145/167797078-5039d68d-9ab6-473b-8e7c-fdbf733bf8f7.png)
